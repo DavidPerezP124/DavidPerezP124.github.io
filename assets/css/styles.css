@@ -59,7 +59,7 @@ a.nav-item:hover {
 
 .project-figure {
 	margin: 0 auto 1rem auto;
-	height: auto;
+	height: 512px;
 	max-width: 256px;
 }
 
