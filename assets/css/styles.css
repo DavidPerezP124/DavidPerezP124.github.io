@@ -1,4 +1,4 @@
-html, body{
+shtml, body{
 	font-size:16px;
 	color: #dfdfdf;
 	background-color: #063647; 
@@ -59,7 +59,7 @@ a.nav-item:hover {
 
 .project-figure {
 	margin: 0 auto 1rem auto;
-	max-height: 256px;
+	height: auto;
 	max-width: 256px;
 }
 
