@@ -70,8 +70,7 @@ a.nav-item:hover {
 .box {
 	background-color: transparent;
 	border: 2px solid rgba(7, 59, 79, 0.5);
-	max-height: 512px;
-	max-width: 256px;
+	height: auto;
 }
 
 .title {
