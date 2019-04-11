@@ -10,11 +10,11 @@ Hosted on github:
 
 Published in the App Store:
 
-  [Shape Game](https://itunes.apple.com/mx/app/shapes-game-fast-arcade-app/id1243793574)
+  [Shape Game](https://itunes.apple.com/app/shapes-game-fast-arcade-app/id1243793574)
   
   [DyeDot](https://itunes.apple.com/app/dyedot-free-color-swap-game/id1435112635)
   
-  [HairCycle](https://itunes.apple.com/mx/app/haircycle-haircut-planning/id1445361090)
+  [HairCycle](https://itunes.apple.com/app/haircycle-haircut-planning/id1445361090)
 
 ## Made using studorlio
 
