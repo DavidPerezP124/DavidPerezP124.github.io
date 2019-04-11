@@ -47,6 +47,10 @@ a.nav-item:hover {
 	border-radius: 50%;
 }
 
+.column{
+	height: auto;
+}
+
 .intro-description{
 	padding-top: 1rem;
 }
